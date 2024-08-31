@@ -1,4 +1,4 @@
-# Тестовое задание для Roistat
+# Тестовое задание для Roicontext
 Детальное ТЗ [тут](https://github.com/cosmopolityan/test_form/blob/main/test.md).
 
 Протестировать функциональность формы можно здесь:

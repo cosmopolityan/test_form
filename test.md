@@ -1,4 +1,4 @@
-# Тестовое задание для Roistat
+# Тестовое задание для Roicontext
 
 [ТЗ на docs.google.com](https://docs.google.com/document/d/1PNos7d1Xr10eutg9fAri-Ti3AwfP-gIzKQlCBrMTKs4/edit#heading=h.edp27oy3znia)
 
